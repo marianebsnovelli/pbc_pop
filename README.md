@@ -1,8 +1,5 @@
 # pbc_pop
 
-Repositorio de.....
+Repositório da linha de pesquisa de Monitoramento Populacional do boto-cinza (_Sotalia guianensis_) no estuário de Cananéia.
 
-Uso para:
-- asd
-- ghg
-- iouy
+Projeto Boto-Cinza - Instituto de Pesquisas Cananéia
