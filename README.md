@@ -1,3 +1,3 @@
 # pbc_pop 
 
-:)
+<file://nas_ipec/PBC-Pesquisa/PROJETOS/ANDAMENTO/01_FOTOID/02_ANALISE/02_CATALOGOS/02_CAT%20CN%202024/CN002_E.jpg>
